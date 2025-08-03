@@ -3,4 +3,4 @@ My code for parts 4 through 14 for the University of Helsinki's 2025 free online
 
 https://programming-25.mooc.fi/
 
-Still in-progress, will be updated as more sections are completed
+Finished on 8/3/2025
